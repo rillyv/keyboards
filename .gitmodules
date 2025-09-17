@@ -1,6 +1,0 @@
-[submodule "qmk"]
-	path = qmk
-	url = git@github.com:rillyv/qmk.git
-[submodule "xkb"]
-	path = xkb
-	url = git@github.com:rillyv/xkb.git
