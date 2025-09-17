@@ -1,4 +1,4 @@
-# keyboards
+# RSI Antidote
 
 ## Motivation
 I used to type on a macbook keyboard, everyday and started to feel some pain my forearms, probably RSI (Repetitive Strain Injury).
