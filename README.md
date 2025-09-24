@@ -1,7 +1,7 @@
 # RSI Antidote
 
 ## Motivation
-I used to type on a macbook keyboard, everyday and started to feel some pain my forearms, probably RSI (Repetitive Strain Injury).
+I used to type on a macbook keyboard everyday and started to feel some pain my forearms, probably RSI (Repetitive Strain Injury).
 Something needed to change, so I did some research and came to the conclusion that I wasn't alone. Phew.
 A lot of people recommended a split keyboard and a different keyboard layout. That's when I switched to colemak.
 
